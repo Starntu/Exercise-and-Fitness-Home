@@ -9,7 +9,7 @@ def main():
     # Get API
     responses = requests.get(
         "https://api.api-ninjas.com/v1/exercises",
-        headers={"X-Api-Key": "nofm8Tfp8p4eW97O4mPcIPZCB4NCrvFUbrBCnCKf"},
+        headers={"X-Api-Key": "API_KEY"},
     )
     if responses.status_code == 200:
         data = responses.json()
