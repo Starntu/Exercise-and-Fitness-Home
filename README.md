@@ -45,3 +45,6 @@ This requirements file is a simple list of all pip installations needed to run m
 
 ## External API
 The Fitness and Exercise Home project uses an external API from [API Ninjas](https://api.api-ninjas.com/v1/exercises). This API supplies access to a list of thousands of exercises, seperating the exercises into dictionaries with name, type, muscle, equipment, difficulty, and instructions keys.
+
+## License
+** This project is licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). See the [LICENSE](LICENSE) file for details. **
